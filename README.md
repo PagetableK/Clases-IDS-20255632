@@ -1,2 +1,5 @@
-# Clases-IDS-20255632
-Repositorio para clases/ejercicios y proyectos de Intro a Software - S1
+Nombre: Pablo Ismael Sánchez Hernández
+Carnet: 20255632
+Sección: 1
+
+Qué rollo :p
